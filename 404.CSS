@@ -16,6 +16,8 @@
     line-height: 25px;
     letter-spacing: -0.08em;
     text-transform: uppercasefont-weight 700;
+    color:#333333;
+    ;
     }
 
     .page-content{
@@ -36,7 +38,7 @@
     #heading-copy{
         width: 580px;
         font-family: 'Space Mono', monospace;
-        font-weight: 700;
+        font-weight: bold;
         height: 190px;
         font-size: 65px;
         margin-top: 21.55%;
@@ -52,7 +54,7 @@
         height: 108px;
         font-size: 24px;
         margin-left: 15%;
-        margin-top: 5%;
+        margin-top: 10%;
         line-height: 36px;
         letter-spacing: -0.035em;
     }
@@ -62,11 +64,35 @@
         height: 68px;
         background-color: #333;
         color: white;
-        margin-top: 7%;
+        margin-top: 20%;
         margin-left: 15%;
     }
 
     button:hover{
         transform: scale(1);
         background-color: purple;
+    }
+
+
+    @media screen and (max-width:768px) {
+     #content-404{
+        left: 24px;
+        top: 20px;
+     }
+     .page-content{
+        display: flex;
+        flex-direction: column;
+     }
+
+     .image{
+        /* position: absolute; */
+        left: 11.73%;
+        right: 11.78%;
+        bottom: 63.44%;
+        margin-top: 45%;
+     }
+
+     .page-copy{
+        margin-top:-40%;
+     }
     }
