@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/icons/websitescreenshot.png)
+![screenshot](https://github.com/peace-stack/404-Landing-Page/blob/master/icons/websitescreenshot.png)
 
 404 is a error indicating sigle landing page for users on arrival to this website.
 
