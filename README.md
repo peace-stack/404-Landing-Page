@@ -40,7 +40,7 @@
 
 404 is a error indicating sigle landing page for users on arrival to this website.
 
-- Where can I see your demo?
+- In my description on the right side of the web
 - Building the page was an easy attempt
 - I learnt responsiveness and the application of flex box
 - Think wisely, there is a short cut to writing clean codes
@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [Linkedin](https://www.linkedin.com/in/peace-agboola/)
 - GitHub [Github](https://{github.com/peace-stack})
-- Twitter [@your-twitter](https://{twitter.com/AgboolaAnike1})
+- Twitter [Twitter](https://{twitter.com/AgboolaAnike1})
