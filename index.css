@@ -9,7 +9,7 @@
     font-weight: 700;
     font-size: 24px;
     line-height: 25px;
-    margin: 40px 0px 200px 77px;
+    margin: 40px 0px 10px 77px;
 }
 
 img {
@@ -85,6 +85,7 @@ button:hover{
 
 @media (min-width: 650px) and (max-width: 900px) { 
     .page-copy {
-        margin: 0 auto;
+        margin: 0 auto
+        ;
     }
 }
